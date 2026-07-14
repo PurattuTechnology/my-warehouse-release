@@ -1,6 +1,6 @@
 {
   "latest_version": "1.2.0",
-  "installer_url": "https://github.com/PurattuTechnology/my-warehouse-release/releases/download/release/MyWarehouse_Setup_v1.0.1.exe",
+  "installer_url": "https://github.com/PurattuTechnology/my-warehouse-release/releases/download/1.2.0/MyWarehouse_Setup_v1.2.0.exe",
   "sha256": "79eb85a1b2dec955f6861a36561e3eafa0f8857059da67e2201c553eeb5d36d9",
   "release_notes": "Initial release"
 }
